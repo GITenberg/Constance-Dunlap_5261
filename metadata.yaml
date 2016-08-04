@@ -1,0 +1,30 @@
+_repo: Constance-Dunlap_5261
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reeve, Arthur B. (Arthur Benjamin)
+    alias: Reeve, Arthur Benjamin
+    birthdate: 1880
+    deathdate: 1936
+    gutenberg_agent_id: '752'
+    url: http://www.gutenberg.org/2009/agents/752
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_B._Reeve
+description: Craig Kennedy Series
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5261'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criminals -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Crime -- Fiction'
+- GITenberg
+tableOfContents: The forgers -- The embezzlers -- The gun runners -- The gamblers
+  -- The eavesdroppers -- The clairvoyants -- The plungers -- The abductors -- The
+  shoplifters -- The blackmailers -- The dope fiends -- The fugitives.
+title: Constance Dunlap
+url: http://www.gutenberg.org/ebooks/5261
